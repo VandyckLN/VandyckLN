@@ -14,6 +14,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Estudo desenvolvimento 
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VandyckLN&repo=Portfolio-DIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=8A2BE2&title_color=8A2BE2&text_color=30A3DC)](https://github.com/VandyckLN/Portfolio-DIO)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VandyckLN&repo=YoutubePageCopy&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=8A2BE2&title_color=8A2BE2&text_color=30A3DC)](https://github.com/VandyckLN/YoutubePageCopy)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VandyckLN&repo=Sismedicine&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=8A2BE2&title_color=8A2BE2&text_color=30A3DC)](https://github.com/VandyckLN/Sismedicine)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VandyckLN&repo=modulariza-o-de-imagem&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=8A2BE2&title_color=8A2BE2&text_color=30A3DC)](https://github.com/VandyckLN/modulariza-o-de-imagem)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=VandyckLN&repo=-Yu-Gi-Oh-Jokenpo-Edition&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=8A2BE2&title_color=8A2BE2&text_color=30A3DC)](https://github.com/VandyckLN/-Yu-Gi-Oh-Jokenpo-Edition)
