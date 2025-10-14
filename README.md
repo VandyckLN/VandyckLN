@@ -6,7 +6,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Estudo desenvolvimento 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VandyckLN&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=8A2BE2&title_color=8A2BE2&text_color=30A3DC)
 
 ## Linguagens que eu domino
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VandyckLN&bg_color=000&border_color=30A3DC&title_color=8A2BE2&text_color=30A3DC)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=VandyckLN&bg_color=000&border_color=30A3DC&title_color=8A2BE2&text_color=30A3D)
 
 ## Meus repositórios
 
