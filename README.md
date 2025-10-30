@@ -6,7 +6,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Estudo desenvolvimento 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VandyckLN&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=8A2BE2&title_color=8A2BE2&text_color=30A3DC)
 
 ## Linguagens que eu domino
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VandyckLN)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VandyckLN&stats_format=bytes)
 
 ## Meus repositórios
 
