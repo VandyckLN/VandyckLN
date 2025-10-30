@@ -5,7 +5,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Estudo desenvolvimento 
 ## Status
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=VandyckLN&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=8A2BE2&title_color=8A2BE2&text_color=30A3DC&locale=pt-br), 
 
-[![Linguagens que eu domino](https://github-readme-stats.vercel.app/api/top-langs/?username=VandyckLN&layout=pie&border_color=30A3DC&show_icons=true&icon_color=8A2BE2&title_color=8A2BE2&text_color=30A3DC&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens que eu domino](https://github-readme-stats.vercel.app/api/top-langs/?username=VandyckLN&layout=pie&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=8A2BE2&title_color=8A2BE2&text_color=30A3DC&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Meus repositórios
